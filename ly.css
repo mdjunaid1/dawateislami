@@ -1,0 +1,30 @@
+div{
+    color:white;
+    margin-top:0px;
+    padding:0px;
+    background-color:darkseagreen;
+    width:100%;
+    height:15%;
+}
+h4{
+    text-align: center;
+    margin-top: opx;
+}
+ul{
+    display:inline;
+    margin-top: opx;
+    }
+    li{
+        display: inline;
+        margin:2px;
+    }
+    .one{
+        background-color:grey;
+    }
+    .two{
+        color:white;
+        background-color:grey;
+        }
+      .two li{
+            margin: 50px;
+        }
